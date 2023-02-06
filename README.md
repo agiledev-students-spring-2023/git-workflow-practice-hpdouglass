@@ -9,3 +9,7 @@ There is no doubt that ChatGPT is changing our world very rapidly. Tedious tasks
 I, however, am not convinced that checking AI output is something we need to be concerned about. If AI can make our lives easier, why shouldn't it? There are of course legal boundaries that have yet to be explored, but as for ethical ones? I don't see why scientists and researchers shouldn't use a tool to help them compose their articles if it makes their lives easier. So long as they ensure the facts of the article are correct, I don't see any problem.
 
 In elementary school, I was always told that we "wouldn't have a calculator around" every time we wanted to make a calculation. Yet now, we do, in the form of smartphones. We have adapted to technology before, and I don't see why ChatGPT should be any different.
+
+#### Comment by Bishnu
+
+I agree with the original comment. The article mentioned the use of an AI detection tool to check whether an abstract was written by a human or not, with results showing a greater than 50% accuracy. It is not surprising that the tool gave a lot of false positive results. It will be interesting to observe how this accuracy changes after the introduction of models such as GPT-4 to the public.
